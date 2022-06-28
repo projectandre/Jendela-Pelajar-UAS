@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jendelapelajar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.JendelaPelajar">
+        <activity
+            android:name=".Kuis_Mtk_Kelas6_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Mtk_Kelas6"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Mtk_Kelas5_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Mtk_Kelas5"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Pkn_Kelas6_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Pkn_Kelas5_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Pkn_Kelas6"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Pkn_Kelas5"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ips_Kelas6_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ips_Kelas6"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ips_Kelas5_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ips_Kelas5"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ipa_Kelas6_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ipa_Kelas6"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ipa_Kelas5_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ipa_Kelas5"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ips_Kelas4_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ips_Kelas4"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ipa_Kelas4_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Ipa_Kelas4"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Mtk_Kelas4_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Mtk_Kelas4"
+            android:exported="false" />
+        <activity
+            android:name=".Kuis_Pkn_Kelas4_Hasil"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Kuis_Pkn_Kelas4"
+            android:exported="false" />
+        <activity
+            android:name=".MateriIPS"
+            android:exported="false" />
+        <activity
+            android:name=".MateriIPA"
+            android:exported="false" />
+        <activity
+            android:name=".MateriMTK"
+            android:exported="false" />
+        <activity
+            android:name=".MateriPKN"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

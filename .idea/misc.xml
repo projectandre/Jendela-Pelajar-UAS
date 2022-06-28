@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1265" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1265" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ipa_kelas4.xml" value="0.33" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ipa_kelas4_hasil.xml" value="0.21" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ipa_kelas5.xml" value="0.25" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ipa_kelas5_hasil.xml" value="0.19542910447761194" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ipa_kelas6.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ipa_kelas6_hasil.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ips_kelas4.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ips_kelas4_hasil.xml" value="0.10233029381965553" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ips_kelas5.xml" value="0.1" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ips_kelas5_hasil.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ips_kelas6.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_ips_kelas6_hasil.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_mtk_kelas4.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_mtk_kelas4_hasil.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_mtk_kelas5.xml" value="0.10612968591691996" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_mtk_kelas5_hasil.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_mtk_kelas6.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_mtk_kelas6_hasil.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_pkn_kelas4.xml" value="0.21" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_pkn_kelas4_hasil.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_pkn_kelas5.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_pkn_kelas5_hasil.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_pkn_kelas6.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_kuis_pkn_kelas6_hasil.xml" value="0.10612968591691996" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_materi_ipa.xml" value="0.10739614994934144" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_materi_ips.xml" value="0.10739614994934144" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_materi_pkn.xml" value="0.10739614994934144" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_splash_screen.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/list_item_ipa.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/ANDRE/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/list_item_ips.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_materi_ipa.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_materi_mtk.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/activity_materi_pkn.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/list_item_ipa.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/list_item_ips.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/list_item_mtk.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/JendelaPelajar/app/src/main/res/layout/list_item_pkn.xml" value="0.16485507246376813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
